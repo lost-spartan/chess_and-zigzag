@@ -1,3 +1,1 @@
-### Hi there 👋
-
-I am Kushagra Mani from vit 
+This repository contains a python code for Chess game
